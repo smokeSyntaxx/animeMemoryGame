@@ -1,6 +1,6 @@
 # MemoryGame
 
-This template should help get you started developing with Vue 3 in Vite.
+Игра в стиле найди пару, развивает память
 
 ## Recommended IDE Setup
 
